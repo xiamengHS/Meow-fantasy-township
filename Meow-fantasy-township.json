@@ -1,20 +1,43 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "0.9",
+    "version": "0.1",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow-fantasy-township",
-    "description": "喵呜幻想乡beta0.9
-        1.mod例行更新",
+    "description": "喵呜幻想乡ver0.1
+        1.mod例行更新
+        2.修复forge异常
+        3.增强流畅
+        4.各种修复
+        5.不能在开启的时候设置
+        6.修复小问题
+        7.异常植物魔法
+        8.异常工业2
+        9.异常神秘4
+        10.异常AE2
+        11.异常ThaumicBases
+        12.异常NEI
+        13.异常buildcraft
+        14.异常EnderIO
+        15.异常ExtraCells
+        16.异常forestry
+        17.异常gregtech
+        18.异常Ironchest
+        19.异常OpenComputers
+        20.异常PneumaticCraft
+        21.异常TE
+        22.异常Railcraft
+        23.异常BiomesOPlenty
+        24.异常Sub-RWG-alpha",
     "updatePath": "https://raw.githubusercontent.com/xiamenggroup/Fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://musicuu.com/file/c33c3dGyagA2w_d789.zip",
+                "downloadLink": "http://musicuu.com/file/c3WPESRdX6hcW_48c7.zip",
                 "localPath": "libraries/",
-                "md5": "F57F236F05D9FF329D0C52D9F9CCA0E1"
+                "md5": "7AB2DD0D55B72C2EDB174EF9582674C3"
             },
             {
                 "name": "Assets",
@@ -48,9 +71,9 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/c3EhRsyNd2NqH_6cb1.zip",
+                "downloadLink": "http://musicuu.com/file/c3WPcvLpbYhgb_64bc.zip",
                 "localPath": "mods/",
-                "md5": "64CA6BB9DD834A2ABEF2F17C91C10F6D"
+                "md5": "9C2B7170567B9474EB893A2926430F2E"
             }
         ],
         "customFiles": [
@@ -93,7 +116,7 @@
         "miniumMemoryMegaSize": 0,
         "nativespath": "natives",
         "libraryPaths": [
-          "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10.jar",
+          "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10.jar",
             "libraries/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10.jar",
             "libraries/net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar",
             "libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
