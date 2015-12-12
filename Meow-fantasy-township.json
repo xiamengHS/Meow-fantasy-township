@@ -1,6 +1,6 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
-    "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
+    "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
     "version": "0.9",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
@@ -24,7 +24,7 @@
             },
             {
                 "name": "Natives",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/natives.zip",
+                "downloadLink": "http://musicuu.com/file/c3WgnnbB9kdAa_2c9e.zip",
                 "localPath": "natives/",
                 "md5": "6167B2DBCDC8CDD9F571173940FC896F"
             },
@@ -68,13 +68,13 @@
             },
             {
                 "name": "GregTechLang",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/GregTech.lang",
+                "downloadLink": "http://musicuu.com/file/c3WgDrgbK5IGc_1f88.lang",
                 "localPath": "GregTech.lang",
                 "md5": "8EF9652BAB31186A26EB3D94459FA0DD"
             },
 			{
                 "name": "Setting",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/options.txt",
+                "downloadLink": "http://musicuu.com/file/c3WgTXRTWKZI7_fd56.txt",
                 "localPath": "options.txt",
                 "md5": "23d8f43193a2abdbc0313fb07b4c61d1"
             }			
