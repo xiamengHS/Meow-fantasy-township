@@ -1,6 +1,6 @@
 {
-    "icon": "http://www.ikoumi.com/yunpan/c33cacmjjP2Jk/b04c.jpg",
-    "background": "http://www.ikoumi.com/yunpan/c3WMBRpinizAU/70e2.jpg",
+    "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
+    "background": "http://musicuu.com/file/c3WMBRpinizAU_70e2.jpg",
     "version": "0.1",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
@@ -35,43 +35,43 @@
         "entirePackageFiles": [
             {
                 "name": "Library",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c3WPESRdX6hcW/48c7.zip",
+                "downloadLink": "http://musicuu.com/file/c3WPESRdX6hcW_48c7.zip",
                 "localPath": "libraries/",
                 "md5": "7AB2DD0D55B72C2EDB174EF9582674C3"
             },
             {
                 "name": "Assets",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c333Cnw5d4jPg/101e.zip",
+                "downloadLink": "http://musicuu.com/file/c333Cnw5d4jPg_101e.zip",
                 "localPath": "assets/",
                 "md5": "A8CC833C1CCAEE73B0877AC484C35E17"
             },
             {
                 "name": "Natives",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c3WgnnbB9kdAa/2c9e.zip",
+                "downloadLink": "http://musicuu.com/file/c3WgnnbB9kdAa_2c9e.zip",
                 "localPath": "natives/",
                 "md5": "6167B2DBCDC8CDD9F571173940FC896F"
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c33WHU9HfGwBR/ffaa.zip",
+                "downloadLink": "http://musicuu.com/file/c33WHU9HfGwBR_ffaa.zip",
                 "localPath": "scripts/",
                 "md5": "4B89B805A4F28E594913E22FE116BA17"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c335gIIZ4JagS/d088.zip",
+                "downloadLink": "http://musicuu.com/file/c335gIIZ4JagS_d088.zip",
                 "localPath": "config/",
                 "md5": "4B8955C79CDE1021FEECA2E2484F5478"
             },
             {
                 "name": "CustomSkinLoader",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c33cE4fkUF8nP/6a33.zip",
+                "downloadLink": "http://musicuu.com/file/c33cE4fkUF8nP_6a33.zip",
                 "localPath": "CustomSkinLoader/",
                 "md5": "DB13CD914A646EDAA3228B2D5F523617"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c3WPcvLpbYhgb/64bc.zip",
+                "downloadLink": "http://musicuu.com/file/c3WPcvLpbYhgb_64bc.zip",
                 "localPath": "mods/",
                 "md5": "9C2B7170567B9474EB893A2926430F2E"
             }
@@ -79,25 +79,25 @@
         "customFiles": [
             {
                 "name": "MainJar",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c33cX9tMMs3rh/4032.jar",
+                "downloadLink": "http://musicuu.com/file/c33cX9tMMs3rh_4032.jar",
                 "localPath": "Meow-Fantasy-Township.jar",
                 "md5": "3CC1782D340A224A5E091231442CFB63"
             },
             {
                 "name": "ServerData",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c33cDmSFS4X7R/3395.dat",
+                "downloadLink": "http://musicuu.com/file/c33cDmSFS4X7R_3395.dat",
                 "localPath": "servers.dat",
                 "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
             },
             {
                 "name": "GregTechLang",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c3WgDrgbK5IGc/1f88.lang",
+                "downloadLink": "http://musicuu.com/file/c3WgDrgbK5IGc_1f88.lang",
                 "localPath": "GregTech.lang",
                 "md5": "8EF9652BAB31186A26EB3D94459FA0DD"
             },
 			{
                 "name": "Setting",
-                "downloadLink": "http://www.ikoumi.com/yunpan/c3WgTXRTWKZI7/fd56.txt",
+                "downloadLink": "http://musicuu.com/file/c3WgTXRTWKZI7_fd56.txt",
                 "localPath": "options.txt",
                 "md5": "CD66B97FBE1701212A8216DB1A12E52E"
             }			
