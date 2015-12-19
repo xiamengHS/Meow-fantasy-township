@@ -36,21 +36,15 @@
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/c335gIIZ4JagS_d088.zip",
+                "downloadLink": "http://musicuu.com/file/c3TrT2rnAB6vz_8896.zip",
                 "localPath": "config/",
-                "md5": "4B8955C79CDE1021FEECA2E2484F5478"
-            },
-            {
-                "name": "CustomSkinLoader",
-                "downloadLink": "http://musicuu.com/file/c33cE4fkUF8nP_6a33.zip",
-                "localPath": "CustomSkinLoader/",
-                "md5": "DB13CD914A646EDAA3228B2D5F523617"
+                "md5": "1E98B9FF0B26C3A25D306F621E35E640"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/c3I5frqTn9pMF_5102.zip",
+                "downloadLink": "http://musicuu.com/file/c3TrIntHBfPEF_84fd.zip",
                 "localPath": "mods/",
-                "md5": "7E2ADC50C2A7D40822C12F37ED6C12CC"
+                "md5": "471EB72E21275A9B3B04C0A27BFA484C"
             }
         ],
         "customFiles": [
