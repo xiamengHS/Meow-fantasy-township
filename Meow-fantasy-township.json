@@ -1,12 +1,12 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "0.1",
+    "version": "0.2",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow-fantasy-township",
-    "description": "喵呜幻想乡ver0.1
-        1.mod例行更新",
+    "description": "喵呜幻想乡ver0.2
+        1.更新皮肤不显示",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
