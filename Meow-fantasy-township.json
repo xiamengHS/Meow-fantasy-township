@@ -1,14 +1,15 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "0.3",
+    "version": "0.3B",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow-fantasy-township",
     "description": "喵呜幻想乡ver0.2C
         1.mod例行更新
         2.NEI的更新
-        3.语音小问题",
+        3.语音小问题
+        4.修复Pam's HarvestCraft发生的崩溃",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -38,15 +39,15 @@
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/c3TrT2rnAB6vz_8896.zip",
+                "downloadLink": "http://musicuu.com/file/cujyE8EJppGXe_399e.zip",
                 "localPath": "config/",
-                "md5": "1E98B9FF0B26C3A25D306F621E35E640"
+                "md5": "76C4B4FC00142018B48FC54E69B1C4F8"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/cuV2fJxL4qztb_2251.zip",
+                "downloadLink": "http://musicuu.com/file/cujKc3dzdKsnf_9909.zip",
                 "localPath": "mods/",
-                "md5": "D9F60A3D8E93209A49CBDF0891038686"
+                "md5": "97E877CD39CFB197517C20B07993F017"
             }
         ],
         "customFiles": [
