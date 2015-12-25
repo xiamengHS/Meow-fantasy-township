@@ -7,7 +7,8 @@
     "instanceName": "Meow-fantasy-township",
     "description": "喵呜幻想乡ver0.2C
         1.mod例行更新
-        2.NEI的更新",
+        2.NEI的更新
+        3.语音小问题",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -43,9 +44,9 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/cuVkYXgCEhQv8_1543.zip",
+                "downloadLink": "http://musicuu.com/file/cuV2fJxL4qztb_2251.zip",
                 "localPath": "mods/",
-                "md5": "10D46B13C80C514652E4D83008E47D0E"
+                "md5": "D9F60A3D8E93209A49CBDF0891038686"
             }
         ],
         "customFiles": [
