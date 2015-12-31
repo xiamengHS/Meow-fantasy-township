@@ -1,13 +1,13 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "0.3C",
+    "version": "0.3B",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow-fantasy-township",
-    "description": "喵呜幻想乡ver0.2A
+    "description": "喵呜幻想乡ver0.2B
         1.mod例行更新
-        2.修复API",
+        2.测试版与正式版即将分开",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -43,9 +43,9 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/cudvCZ3XXgsNm_0453.zip",
+                "downloadLink": "http://musicuu.com/file/cuqkeEZGTVbau_06f0.zip",
                 "localPath": "mods/",
-                "md5": "9E891A512A2CB2CC2A98BAEB47C8C25A"
+                "md5": "575282DE1EA1D864B7EB8FCD10385D89"
             }
         ],
         "customFiles": [
