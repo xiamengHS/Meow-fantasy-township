@@ -6,7 +6,8 @@
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow-fantasy-township-TFC",
     "description": "喵呜幻想乡ver0.1
-        1.修复config无法下载",
+        1.修复config无法下载
+        2.修复缺失的mod",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township-TFC.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -42,9 +43,9 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/cuRu685YhJ7T8_7168.zip",
+                "downloadLink": "http://musicuu.com/file/cuB7vAAcAfqVz_e1bf.zip",
                 "localPath": "mods/",
-                "md5": "CF741D97BDA4284ED16F63132413A73A"
+                "md5": "93B1745A98295FCBCF05BC563B4FDF7E"
             }
         ],
         "customFiles": [
