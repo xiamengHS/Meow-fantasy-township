@@ -1,16 +1,12 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "TFC0.1A",
+    "version": "TFC0.1C",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow-fantasy-township-TFC",
     "description": "喵呜幻想乡ver0.1
-        1.mod例行更新
-        2.删除较多mod
-        3.大改变
-        4.MT减少脚本
-        5.修复MT大的语病",
+        1.修复config无法下载",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township-TFC.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -34,15 +30,15 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://musicuu.com/file/cuRu79IyTALqs_2018.rar",
+                "downloadLink": "http://musicuu.com/file/cuBh4BetJuIsQ_f1af.zip",
                 "localPath": "scripts/",
                 "md5": "91D9F36201BFC5D81614F3893ACE08F9"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/cuR3TFpTxXPYz_e089.rar",
+                "downloadLink": "http://musicuu.com/file/cuBhbxzk9cZ7B_9fd0.zip",
                 "localPath": "config/",
-                "md5": "4B36EAFC0AA6AF734590788FD2CCD3CC"
+                "md5": "46BD600C37F264D64D572C8D6AE64D36"
             },
             {
                 "name": "Mods",
