@@ -4,7 +4,7 @@
     "version": "TFC0.2A",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
-    "instanceName": "Meow-fantasy-township-TFC",
+    "instanceName": "Meow fantasy township TFC",
     "description": "喵呜幻想乡ver0.2A
         1.重大更新
         2.修复崩溃
@@ -55,7 +55,7 @@
             {
                 "name": "MainJar",
                 "downloadLink": "http://musicuu.com/file/c33cX9tMMs3rh_4032.jar",
-                "localPath": "Meow-Fantasy-Township.jar",
+                "localPath": "Meow Fantasy Township.jar",
                 "md5": "3CC1782D340A224A5E091231442CFB63"
             },
             {
@@ -136,7 +136,7 @@
             "libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
             "libraries/tv/twitch/twitch/5.16/twitch-5.16.jar"
         ],
-        "mainJarPath": "Meow-Fantasy-Township.jar",
+        "mainJarPath": "Meow Fantasy Township.jar",
         "mainClass": "net.minecraft.launchwrapper.Launch",
         "version": "1.7.10",
         "assetsDir": "assets",
