@@ -10,8 +10,7 @@
         2.修复崩溃
         3.修复严重的MT语病
         4.修复标记异常
-        5.mod例行更新
-        4.等等更新",
+        5.mod例行更新",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township-TFC.json",
     "fileSystem": {
         "entirePackageFiles": [
