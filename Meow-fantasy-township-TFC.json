@@ -1,16 +1,13 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "TFC0.2A",
+    "version": "TFC0.2C",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow fantasy township TFC",
-    "description": "喵呜幻想乡ver0.2A
-        1.重大更新
-        2.修复崩溃
-        3.修复严重的MT语病
-        4.修复标记异常
-        5.mod例行更新",
+    "description": "喵呜幻想乡ver0.2C
+        1.mod例行更新
+        2.添加超能物质",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township-TFC.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -40,15 +37,15 @@
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/cuUzhgHiYyCvU_a5e1.zip",
+                "downloadLink": "http://musicuu.com/file/cuDSHF6YCh2uv_3c8c.zip",
                 "localPath": "config/",
-                "md5": "DF927630A9C22C5FD78D9F5729373AC1"
+                "md5": "9988141152439663D04208332C6DBE28"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/cuUzaMMgUsAua_4d96.zip",
+                "downloadLink": "http://musicuu.com/file/cuDSmsNu9bsBL_d9af.zip",
                 "localPath": "mods/",
-                "md5": "0563098439115C6A41754DCD68B66721"
+                "md5": "5932FEA5EA0A0AE2FB49C38642EE93E9"
             }
         ],
         "customFiles": [
@@ -60,9 +57,9 @@
             },
             {
                 "name": "ServerData",
-                "downloadLink": "http://musicuu.com/file/c33cDmSFS4X7R_3395.dat",
+                "downloadLink": "http://musicuu.com/file/cuDSF7nuj8U4J_cb65.dat",
                 "localPath": "servers.dat",
-                "md5": "A812EFEBDBF4932BA94F4707E3B4F5E8"
+                "md5": "3475D87B8E1A6CDC849156795AB842E7"
             },
 			{
                 "name": "Setting",
