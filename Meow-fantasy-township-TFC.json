@@ -132,6 +132,6 @@
         "tweakClasses": [
             "cpw.mods.fml.common.launcher.FMLTweaker",
             "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
-        ]
+       ]
     }
 }
