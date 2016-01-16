@@ -8,7 +8,8 @@
     "description": "喵呜幻想乡ver1.0.1C
         1.删除IC2
         2.清理脚本
-        3.清理缓存config",
+        3.清理缓存config
+        4.更改文字",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
