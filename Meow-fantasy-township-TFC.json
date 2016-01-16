@@ -1,13 +1,18 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "TFC0.2C",
+    "version": "TFC0.3",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meow fantasy township TFC",
-    "description": "喵呜幻想乡ver0.2C
+    "description": "喵呜幻想乡ver0.3
         1.mod例行更新
-        2.添加超能物质",
+        2.修复一些MT矛盾
+        3.简短下载
+        4.修复IE版本回退！
+        5.解决config
+        6.删除较多mod
+        7.重大更新！",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township-TFC.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -31,44 +36,29 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://musicuu.com/file/cuUpg6AtribXr_7934.zip",
+                "downloadLink": "http://musicuu.com/file/cryW8Pp5aJsYy_8750.zip",
                 "localPath": "scripts/",
-                "md5": "D989C5667DC13D24067EB1D71E73DA32"
+                "md5": "5F583F4F29CFE729073AD89B9C24F136"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/cuDSHF6YCh2uv_3c8c.zip",
+                "downloadLink": "http://musicuu.com/file/cryWBPJKqDQYs_680d.zip",
                 "localPath": "config/",
-                "md5": "9988141152439663D04208332C6DBE28"
+                "md5": "7D226F6287A63821D9C3390656EEDE93"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/cuDSmsNu9bsBL_d9af.zip",
+                "downloadLink": "http://musicuu.com/file/cryWM2IiEK622_1565.zip",
                 "localPath": "mods/",
-                "md5": "5932FEA5EA0A0AE2FB49C38642EE93E9"
+                "md5": "62C2CE34D48E6E9B062344B5949A4B0A"
+            },
+            {
+                "name": "Others",
+                "downloadLink": "http://musicuu.com/file/cryWvKpnwG3Ir_1e38.zip",
+                "localPath": "",
+                "md5": "9E5974D83BAD304B5FD89EFE349665F0"
             }
         ],
-        "customFiles": [
-            {
-                "name": "MainJar",
-                "downloadLink": "http://musicuu.com/file/c33cX9tMMs3rh_4032.jar",
-                "localPath": "Meow Fantasy Township.jar",
-                "md5": "3CC1782D340A224A5E091231442CFB63"
-            },
-            {
-                "name": "ServerData",
-                "downloadLink": "http://musicuu.com/file/cuDSF7nuj8U4J_cb65.dat",
-                "localPath": "servers.dat",
-                "md5": "3475D87B8E1A6CDC849156795AB842E7"
-            },
-			{
-                "name": "Setting",
-                "downloadLink": "http://musicuu.com/file/c3WgTXRTWKZI7_fd56.txt",
-                "localPath": "options.txt",
-                "md5": "CD66B97FBE1701212A8216DB1A12E52E"
-            }			
-        ]
-    },
     "startupArguments": {
         "jvmArguments": [
             "-XX:+UseConcMarkSweepGC",
@@ -133,7 +123,7 @@
             "libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
             "libraries/tv/twitch/twitch/5.16/twitch-5.16.jar"
         ],
-        "mainJarPath": "Meow Fantasy Township.jar",
+        "mainJarPath": "MeowFantasy-Township.jar",
         "mainClass": "net.minecraft.launchwrapper.Launch",
         "version": "1.7.10",
         "assetsDir": "assets",
