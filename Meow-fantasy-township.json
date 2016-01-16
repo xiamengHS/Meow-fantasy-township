@@ -5,7 +5,7 @@
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-townshipTFC",
-    "description": "喵呜幻想乡ver1.0.1"
+    "description": "喵呜幻想乡ver0.3
         1.mod例行更新
         2.修复一些MT矛盾
         3.简短下载
@@ -13,7 +13,7 @@
         5.解决config
         6.删除较多mod
         7.重大更新！
-        8.格式小问题",
+        8.修复格式的问题",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
