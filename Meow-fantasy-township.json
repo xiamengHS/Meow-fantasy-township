@@ -1,19 +1,14 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "V1.0.1",
+    "version": "V1.0.1C",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-townshipTFC",
-    "description": "喵呜幻想乡ver0.3
-        1.mod例行更新
-        2.修复一些MT矛盾
-        3.简短下载
-        4.修复IE版本回退！
-        5.解决config
-        6.删除较多mod
-        7.重大更新！
-        8.修复格式的问题",
+    "description": "喵呜幻想乡ver1.0.1C
+        1.删除IC2
+        2.清理脚本
+        3.清理缓存config",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -37,21 +32,21 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://musicuu.com/file/cry5aANXCX4fH_828d.zip",
+                "downloadLink": "http://musicuu.com/file/crKjp2rVWnmMd_7e81.zip",
                 "localPath": "scripts/",
-                "md5": "46E18EEA6BBA8575F07F57A1CD3DB283"
+                "md5": "23F8D338FEF28957FF56D8F58A26A33F"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/cryWBPJKqDQYs_680d.zip",
+                "downloadLink": "http://musicuu.com/file/crKjaxYcjzYk6_ba31.zip",
                 "localPath": "config/",
-                "md5": "7D226F6287A63821D9C3390656EEDE93"
+                "md5": "3C986037157F496EA2466E2F7D0B26C3"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/crytWFgiNg2Fj_54a5.zip",
+                "downloadLink": "http://musicuu.com/file/crKwPAxUU4gNQ_8d88.zip",
                 "localPath": "mods/",
-                "md5": "D5F669E7A570ADA5D298343BAAFA5F96"
+                "md5": "E5DE395175588E2C6C7D356BB9C402C0"
             },
             {
                 "name": "Others",
