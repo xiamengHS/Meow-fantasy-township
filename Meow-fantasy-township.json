@@ -1,15 +1,13 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "V1.0.1C",
+    "version": "V1.0.2",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-townshipTFC",
-    "description": "喵呜幻想乡ver1.0.1C
-        1.删除IC2
-        2.清理脚本
-        3.清理缓存config
-        4.更改文字",
+    "description": "喵呜幻想乡ver1.0.2
+        1.删除植物魔法和神秘4 提示：可以关掉一些画质相关的东西来提升FPS
+        2.修复矛盾",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -33,21 +31,21 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://musicuu.com/file/crKQNIZdRFCcP_84ec.zip",
+                "downloadLink": "http://musicuu.com/file/crMAz42axSHmy_f9e2.zip",
                 "localPath": "scripts/",
-                "md5": "F51A13E53139CEB0CC4E68B500E5534E"
+                "md5": "881F5A91361B44FD4DE1B938732F6EAA"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/crKjaxYcjzYk6_ba31.zip",
+                "downloadLink": "http://musicuu.com/file/crMACbGEG8KIG_4da1.zip",
                 "localPath": "config/",
-                "md5": "3C986037157F496EA2466E2F7D0B26C3"
+                "md5": "371A95ED908019B71F6750196EE9393D"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/crKwPAxUU4gNQ_8d88.zip",
+                "downloadLink": "http://musicuu.com/file/crMAUnzjweaZd_ac01.zip",
                 "localPath": "mods/",
-                "md5": "E5DE395175588E2C6C7D356BB9C402C0"
+                "md5": "61635E58E5AEF150F9EB94A6E5C2646D"
             },
             {
                 "name": "Others",
