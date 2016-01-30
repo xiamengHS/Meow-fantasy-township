@@ -1,13 +1,12 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "V1.0.2",
+    "version": "V1.0.3",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-townshipTFC",
-    "description": "喵呜幻想乡ver1.0.2
-        1.删除植物魔法和神秘4 提示：可以关掉一些画质相关的东西来提升FPS
-        2.修复矛盾",
+    "description": "喵呜幻想乡ver1.0.3
+        1.停止更新！以后多可能不再更新！ 提示：可以关掉一些画质相关的东西来提升FPS",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
