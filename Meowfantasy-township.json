@@ -1,12 +1,12 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
-    "version": "V1.0.1",
+    "version": "V1.0.2",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-township",
-    "description": "喵呜幻想乡ver1.0.1
-        1.解决大量漏洞",
+    "description": "喵呜幻想乡ver1.0.2
+        1.解决异常创造物品",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meowfantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -42,9 +42,9 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/crXI68PPGCzc5_ed74.zip",
+                "downloadLink": "http://musicuu.com/file/crXiQVv87bb9t_9736.zip",
                 "localPath": "mods/",
-                "md5": "115B93E5A70378EA609F02148B5D3853"
+                "md5": "19512DDD974377D24466DFB7006809E7"
             },
             {
                 "name": "Others",
