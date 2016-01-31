@@ -7,7 +7,7 @@
     "instanceName": "Meowfantasy-township",
     "description": "喵呜幻想乡ver1.0.1
         1.解决大量漏洞",
-    "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
+    "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meowfantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
             {
