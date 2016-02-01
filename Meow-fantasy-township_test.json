@@ -8,8 +8,7 @@
     "description": "喵呜幻想乡ver0.1B
         1.mod例行更新
         2.初始化版本
-        3.这个可能可以进入服务器[在以后]
-        4.修复MT语病",
+        3.修复MT语病",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township_test.json",
     "fileSystem": {
         "entirePackageFiles": [
