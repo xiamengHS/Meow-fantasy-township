@@ -5,10 +5,9 @@
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-township",
-    "description": "喵呜幻想乡ver1.0.3
-        1.再次解决异常创造物品
-        2.修复植物魔法发生的崩溃
-        3.运用MT防止TC4的刷铁术",
+    "description": "喵呜幻想乡ver1.0.5
+        1.增加对神秘4的MT支持
+        2.添加神秘4遗漏的部分",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meowfantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -32,9 +31,9 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://musicuu.com/file/crXIfGBAHDfrt_c79a.zip",
+                "downloadLink": "http://musicuu.com/file/cr9FXI36mpbbg_1f97.zip",
                 "localPath": "scripts/",
-                "md5": "8CFE05E27D90CF377A1D427CF3990767"
+                "md5": "27867505C72780DC5CF494F67E3F4879"
             },
             {
                 "name": "Configs",
