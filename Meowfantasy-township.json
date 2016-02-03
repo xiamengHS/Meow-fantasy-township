@@ -1,13 +1,13 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/crpuaCNdunmQ3_7e07.png",
-    "version": "V1.0.5",
+    "version": "V1.0.6",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-township",
-    "description": "喵呜幻想乡ver1.0.5
-        1.增加对神秘4的MT支持
-        2.添加神秘4遗漏的部分",
+    "description": "喵呜幻想乡ver1.0.6
+        1.增加RCmod
+        2.更新贴图",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meowfantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -43,9 +43,9 @@
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/crXhZNitRC4xv_31ad.zip",
+                "downloadLink": "http://musicuu.com/file/crpRj2Zych5Dr_4815.zip",
                 "localPath": "mods/",
-                "md5": "8E9E5C4EC032F8E411B8316A1D8A81A4"
+                "md5": "14AB286FD8B1DB8187AADA4B29DD17E0"
             },
             {
                 "name": "Others",
