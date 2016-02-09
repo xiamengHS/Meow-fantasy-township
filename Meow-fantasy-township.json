@@ -1,12 +1,13 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
-    "background": "http://musicuu.com/file/c3Wsd2PPEjdf8_2a94.png",
+    "background": "http://musicuu.com/file/crpuaCNdunmQ3_7e07.png",
     "version": "V1.0.3",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-townshipTFC",
     "description": "喵呜幻想乡ver1.0.3
-        1.停止更新！以后多可能不再更新！ 提示：可以关掉一些画质相关的东西来提升FPS",
+        1.修正大量BUG、
+        2.添加星系mod",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -30,21 +31,21 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://musicuu.com/file/crMAz42axSHmy_f9e2.zip",
+                "downloadLink": "http://musicuu.com/file/cxyGrMhN8wASa_849e.zip",
                 "localPath": "scripts/",
-                "md5": "881F5A91361B44FD4DE1B938732F6EAA"
+                "md5": "3706B8736C8F9D7752560207DA65A0F8"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/crMACbGEG8KIG_4da1.zip",
+                "downloadLink": "http://musicuu.com/file/cxyGLQtEA2Nb9_0a4c.zip",
                 "localPath": "config/",
-                "md5": "371A95ED908019B71F6750196EE9393D"
+                "md5": "A080E31C73D910FEE0FFD0A68BC1BFE7"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/crMAUnzjweaZd_ac01.zip",
+                "downloadLink": "http://musicuu.com/file/cxyG377JsfEbh_04d0.zip",
                 "localPath": "mods/",
-                "md5": "61635E58E5AEF150F9EB94A6E5C2646D"
+                "md5": "80D6CF68A7FDCE797BE9EDE787831A67"
             },
             {
                 "name": "Others",
