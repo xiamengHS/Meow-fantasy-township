@@ -1,11 +1,11 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/crpuaCNdunmQ3_7e07.png",
-    "version": "V1.0.3",
+    "version": "V1.0.4",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-townshipTFC",
-    "description": "喵呜幻想乡ver1.0.3
+    "description": "喵呜幻想乡ver1.0.4
         1.修正大量BUG、
         2.添加星系mod",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
