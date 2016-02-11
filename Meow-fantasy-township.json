@@ -1,13 +1,13 @@
 {
     "icon": "http://musicuu.com/file/c33cacmjjP2Jk_b04c.jpg",
     "background": "http://musicuu.com/file/crpuaCNdunmQ3_7e07.png",
-    "version": "V1.0.4",
+    "version": "V1.0.5",
     "generation": "2",
     "author": "喵呜幻想乡管理团队",
     "instanceName": "Meowfantasy-townshipTFC",
-    "description": "喵呜幻想乡ver1.0.4
-        1.修正大量BUG、
-        2.添加星系mod",
+    "description": "喵呜幻想乡ver1.0.5
+        1.调整了IE金属成型机的部分配方bug
+        2.更新了某些mod的版本",
     "updatePath": "https://raw.githubusercontent.com/xiamengHS/Meow-fantasy-township/master/Meow-fantasy-township.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -31,21 +31,21 @@
             },
             {
                 "name": "Scripts",
-                "downloadLink": "http://musicuu.com/file/cxyGrMhN8wASa_849e.zip",
+                "downloadLink": "http://musicuu.com/file/cxjPnkBBDLQr8_d582.zip",
                 "localPath": "scripts/",
-                "md5": "3706B8736C8F9D7752560207DA65A0F8"
+                "md5": "102508EACD87B07C3B680DDE32D00CED"
             },
             {
                 "name": "Configs",
-                "downloadLink": "http://musicuu.com/file/cxyGLQtEA2Nb9_0a4c.zip",
+                "downloadLink": "http://musicuu.com/file/cxjPtK5FgURRA_9aa3.zip",
                 "localPath": "config/",
-                "md5": "A080E31C73D910FEE0FFD0A68BC1BFE7"
+                "md5": "17663A03735EE91EFB2035A67BB61FD0"
             },
             {
                 "name": "Mods",
-                "downloadLink": "http://musicuu.com/file/cxyG377JsfEbh_04d0.zip",
+                "downloadLink": "http://musicuu.com/file/cxjP7ZzhEJbvk_d460.zip",
                 "localPath": "mods/",
-                "md5": "80D6CF68A7FDCE797BE9EDE787831A67"
+                "md5": "3D5DAA705611D6F843572963792AF32D"
             },
             {
                 "name": "Others",
